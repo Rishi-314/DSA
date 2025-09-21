@@ -10,6 +10,6 @@ class Solution {
 
             }
         }
-        return nums;
+        return new int[]{-1, -1};
     }
 }
